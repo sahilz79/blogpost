@@ -68,9 +68,9 @@ Communication in any work setting is essential and becomes even more critical wh
     > Any task you give somebody to do should be accompanied by the explicit context of
     >
     > - what it means to have successfully completed it
-    > - what failed case(or negative success) should look like
-
-    > through templates, examples, reference documentation of some kind. **This becomes pivotal when it comes to effective management of remote teams.**
+    > - what failed case(or negative success) should look like  
+    >   through templates, examples, reference documentation of some kind.  
+    >   **This becomes pivotal when it comes to effective management of remote teams.**
 
 2.  **Minimize meetings**
 
