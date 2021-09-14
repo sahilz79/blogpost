@@ -43,9 +43,7 @@ Communication in any work setting is essential and becomes even more critical wh
 
     **User Story:**
 
-    ```
-    As a user, when I click "submit" on the landing page, I am navigated to the first page of the intake application, and my account is created in the background.
-    ```
+        As a user, when I click "submit" on the landing page, I am navigated to the first page of the intake application, and my account is created in the background.
 
     Now, this is a decently written user story, but it still leaves certain things unclear.
 
@@ -53,17 +51,13 @@ Communication in any work setting is essential and becomes even more critical wh
 
     **User Story:**
 
-    ```
-    As a user, when I click "submit" on the landing page, I am navigated to the first page of the intake application, and my account is created in the background.
-    ```
+        As a user, when I click "submit" on the landing page, I am navigated to the first page of the intake application, and my account is created in the background.
 
     **Success criteria**
 
-    ```
-    - My account, against the email that I provided on the landing page, is automatically created.
+        - My account, against the email that I provided on the landing page, is automatically created.
 
-    - An email is sent to me, with a link, in case I want to access my non-submitted user stories.
-    ```
+        - An email is sent to me, with a link, in case I want to access my non-submitted user stories.
 
     An example of even better-written communication would list the user story, the success criteria, the failure criteria, and any support documentation.
 
